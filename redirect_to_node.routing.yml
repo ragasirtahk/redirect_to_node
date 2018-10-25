@@ -1,0 +1,4 @@
+redirect_to_node.generate:
+  path: '/node/{id}'
+  requirements:
+    _permission: 'redirect to node'

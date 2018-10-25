@@ -1,0 +1,5 @@
+name: Redirect To Node
+type: module
+description: 'Redirects to the entered node ID.'
+package: Custom
+core: 8.x
